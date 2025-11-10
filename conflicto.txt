@@ -1,2 +1,3 @@
 Linea 1: Contenido inicial
 Linea 2: Cambio en rama remota
+Linea 2: Cambio diferente en local sin commit
