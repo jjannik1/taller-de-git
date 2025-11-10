@@ -1,1 +1,2 @@
 Linea 1: Contenido inicial
+Linea 2: Cambio en rama remota
